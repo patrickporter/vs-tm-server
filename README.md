@@ -10,7 +10,7 @@ It includes a CherryPy wrapper serving methods to interact with the translation 
 <strong>Requirements</strong>:<br/>
 Python 3.4<br/>
 CherryPy<br/>
-python_Levenshtein<br/>
+python-Levenshtein<br/>
 MySql Server (optional)<br/>
 
 <strong>Usage / API methods (GET or POST)</strong>:
