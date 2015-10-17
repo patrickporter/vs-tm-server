@@ -259,6 +259,5 @@ if __name__ == '__main__':
     cherrypy.quickstart(VsTmServer(), '/', appconfig)
     
 #TODO: allow config from file(s)
-#TODO: check_auth needs to get data from DB..encrypt/decrypt passwords
 #TODO: a UI would be good to manage auth stuff..usernames, passwords, groups, etc. at least a basic one
 #TODO: test running behind SSL
